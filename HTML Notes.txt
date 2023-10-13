@@ -1,0 +1,25 @@
+Git init
+Git remote add orign "url"
+git add .
+git commint m "anything"
+git push origin master
+
+Type of tags based on spacing
+1. block level Element
+ its start from new line
+
+e.g. div, p, h1 to h6
+
+2.Inline Element
+its start from same line
+
+e.g. span, strong
+
+Block level element are always parent.
+inline element are always children.
+
+e.g.
+<block_tag>
+	<Inline_Tag>
+	</inline_Tag >
+</block_Tag>
